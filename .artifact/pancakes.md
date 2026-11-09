@@ -4,7 +4,6 @@ date: 2021-07
 category: product
 tags:
   - web
-  - open-source
 links:
   source: https://github.com/arfct/pancakes
 media:
