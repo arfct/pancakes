@@ -1,6 +1,7 @@
 ---
 title: Pancakes
 date: 2021-07
+status: released
 category: product
 tags:
   - web
@@ -11,8 +12,7 @@ media:
   - src: stack.jpg
     caption: "The sample table of contents as the sidebar, with the document 2021 Milestones open beside it"
     alt: "A Pancakes page with a grey sidebar listing documents and links, and a document titled 2021 Milestones under a banner image of a rabbit eating pancakes"
-unconfirmed:
-  - date
+unconfirmed: [date, status]
 ---
 
 The grey sidebar in the image is a Google Doc. Pancakes, a Google Apps Script web app, takes one document as a table of contents, turns its headings and links into that sidebar and opens each linked document beside it, so that a set of documents reads as one site.
