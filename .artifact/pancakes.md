@@ -4,6 +4,7 @@ date: 2021-07
 category: product
 tags:
   - web
+url: https://gdoc.app
 links:
   source: https://github.com/arfct/pancakes
 media:
