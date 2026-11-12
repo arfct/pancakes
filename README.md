@@ -14,3 +14,7 @@ A test version [exists here](https://script.google.com/macros/s/AKfycbwMvh831uxc
 3. Add the Google Docs API under Editor > Services
 4. Deploy the web interface
 5. add ?toc=[GOOGLE_DOC_ID] to the url
+
+## Catalogue
+
+The catalogue entry for this project is in [`.artifact/pancakes.md`](.artifact/pancakes.md).
